@@ -1,0 +1,5 @@
+# CAEN
+Host ant
+  HostName login.engin.umich.edu
+  User antwohlf
+  Compression yes
